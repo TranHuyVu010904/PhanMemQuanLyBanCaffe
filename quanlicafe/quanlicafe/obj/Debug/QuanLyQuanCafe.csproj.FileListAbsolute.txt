@@ -1,0 +1,82 @@
+D:\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.exe
+D:\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.exe
+D:\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\bin\Debug\Guna.UI2.dll
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQu.8A743E1D.Up2Date
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fCategory.resources
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fDailyRevenue.resources
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fEmailSender.resources
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fVerifyCode.resources
+C:\Users\Huy Vu\Downloads\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fForgotPassword.resources
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\Guna.UI2.dll
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fDailyRevenue.resources
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fEmailSender.resources
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fForgotPassword.resources
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fVerifyCode.resources
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fCategory.resources
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQu.8A743E1D.Up2Date
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\Guna.UI2.dll
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fDailyRevenue.resources
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fEmailSender.resources
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fForgotPassword.resources
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fVerifyCode.resources
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.fCategory.resources
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQu.8A743E1D.Up2Date
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.exe.manifest
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\QuanLyQuanCafe.application
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.exe.manifest
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\obj\Debug\QuanLyQuanCafe.application
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\SciChart.Charting.dll
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\SciChart.Core.dll
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\SciChart.Data.dll
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\SciChart.Drawing.dll
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\SciChart.Charting.xml
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\SciChart.Core.xml
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\SciChart.Data.xml
+C:\Users\Huy Vu\Desktop\Quản Lý Cafe\quanlicafe\quanlicafe\bin\Debug\SciChart.Drawing.xml
